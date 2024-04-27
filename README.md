@@ -1,5 +1,5 @@
 # Conset
-Conset provides a controller, touch and user friendly interface for media.
+Conset provides a controller, touch and user friendly interface for media; A modern home TMS/LMS;
 
 ## Vision/Goal in Practice
 Context: 
