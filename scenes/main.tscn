@@ -1,4 +1,6 @@
-[gd_scene format=3 uid="uid://64d4xn7qe5x7"]
+[gd_scene load_steps=2 format=3 uid="uid://64d4xn7qe5x7"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_v363m"]
 
 [node name="Main" type="Node2D"]
 
@@ -10,7 +12,10 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 
-[node name="button_relayTest" type="ColorRect" parent="Control"]
+[node name="button_relayTest" type="Button" parent="Control"]
 layout_mode = 0
-offset_right = 40.0
-offset_bottom = 40.0
+offset_right = 8.0
+offset_bottom = 8.0
+theme_override_styles/focus = SubResource("StyleBoxEmpty_v363m")
+toggle_mode = true
+text = "Relay Test"
