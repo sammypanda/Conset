@@ -19,3 +19,9 @@ Use:
 7. The host does the start sequence, such as: set the eq to a specific profile, dim the lights, play a series of other media such as trailers with their own sequences, and draw in the curtains to the correct place 
 8. The host does an event at a timestamp, such as: flashing the lights, (or examples like spraying water, moving mechanical seats) at a specific moment in the film
 9. The host does the end sequence, such as: returning the room to the defined default, turning down the volume, playing a different media.
+
+## The How
+Godot is a videogame engine, but [GodotOS](https://popcar.bearblog.dev/using-godot-for-gui-app-development/) is a great inspiration to me to create this as desktop/etc UI software, rather than just a web application (which aren't as friendly acting as native mobile/desktop software). Especially because I'd like to leverage [MPV](https://popcar.bearblog.dev/using-godot-for-gui-app-development/).
+
+Sources:
+- [Using Godot for GUI App Development by Popcar (of GodotOS)](https://popcar.bearblog.dev/using-godot-for-gui-app-development/)
