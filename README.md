@@ -9,7 +9,7 @@ Context:
  - Automated lights
 
 Use:
-1. The touchscreen shows a list large, hi-res movie covers.
+1. The touchscreen shows a list of large, hi-res movie covers.
 2. Scrolling or swiping through this list, the user can choose a movie to play.
 3. They have the option to specify which subs, video, audio and time to play the media.
 3.1. The media has, associated with it, automation/sequence file(s) that say what to do when things are queued, started at different timestamps, and at the end (these could generate settings pages).
