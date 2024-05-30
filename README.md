@@ -7,6 +7,7 @@ Context:
  - Cinemascope screen (with mechanical curtains to letterbox)
  - Touchscreen display by door
  - Automated lights
+ - https://www.control4.com/
 
 Use:
 1. The touchscreen shows a list of large, hi-res movie covers.
