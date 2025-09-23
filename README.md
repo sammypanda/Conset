@@ -9,6 +9,12 @@ Context:
  - Automated lights
  - https://www.control4.com/
 
+Foundations:
+ - HTTP requests/LAN/Bluetooth/"Smart home"/Infared/etc to power frameworks integrating:
+   - Aroma
+   - Lights
+   - Screens
+
 Use:
 1. The touchscreen shows a list of large, hi-res movie covers.
 2. Scrolling or swiping through this list, the user can choose a movie to play.
